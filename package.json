@@ -43,7 +43,7 @@
     "stream-buffers": "^3.0.1",
     "tap": "^12.0.2",
     "adm-zip": "0.4.11",
-    "file-type": "^8.1.0",
+    "file-type": "^16.5.4",
     "snyk": "^1.115.0"
   },
   "devDependencies": {
